@@ -12,7 +12,13 @@
 </html>
 
 <?php
+$num1 = 10;
+$num2 = 20;
 
-echo("Esse é um teste para a aula de versionamento!")
+$soma = $num1 + $num2 ;
+echo("Esse é um teste para a aula de versionamento!");
+echo("A soma de $num1 com $num2 é $soma");
+
+
 
 ?>
